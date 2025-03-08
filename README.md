@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aanchal911
 - 👀 I’m interested in Developing new skills
 - 🌱 I’m currently learning New programing languages
-- 💞️ I’m not looking forward for any collab
+- 💞️ I’m looking forward for collab
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I hate rain:)
 
