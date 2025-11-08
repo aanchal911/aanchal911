@@ -42,7 +42,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/"_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aanchal-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/aanchal911" target="_blank">
