@@ -1,14 +1,20 @@
 <h1 align="center">Hey there, I'm Aanchal 👋</h1>
-<h3 align="center">💻 Aspiring Developer | 🌱 Lifelong Learner | ☀️ Not a fan of rain</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 ML Explorer | 🚀 Builder in Public</h3>
 
 ---
 
+<!-- HERO ANIMATION -->
+
 <p align="center">
-  <b>🚀 Open Source Developer • Builder in Public • Tutorial Creator</b>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-  Turning ideas into open-source projects and helping others learn by building.
+  <b>✨ India Innovates 2026 Finalist | Open Source Contributor | Tech Creator ✨</b>
+</p>
+
+<p align="center">
+  Turning ideas into impactful products & inspiring others to build 🚀
 </p>
 
 ---
@@ -16,56 +22,85 @@
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast;Building+Projects+in+Public;Creating+Developer+Tutorials;Learning+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Vue;Machine+Learning+Explorer;Building+Projects+in+Public;Empowering+Devs+Worldwide+🌍" />
 </p>
 
 ---
+
+<!-- CODING ANIMATION -->
+
 <p align="center">
-  <img src="Screenshot 2026-03-20 132411.png"Aanchal Bhatt"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 👀 I’m passionate about **developing new skills** and exploring the tech world.  
-- 🌱 Currently learning **new programming languages** & improving my problem-solving game.  
-- 💞️ I’m always up for **collaborating on creative and impactful projects**.  
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: I **hate rain**, but I’ll still code through the thunderstorm 🌩️  
+
+* 🚀 Finalist at **India Innovates 2026** 🏆
+* 💻 I build **full-stack applications + real-world projects**
+* 🤖 Exploring **Machine Learning & AI**
+* 🌱 Constantly leveling up my dev skills
+* 💞️ Love collaborating on impactful ideas
+* ⚡ Fun fact: I still don’t like rain ☔ but I’ll code through storms anyway
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,nodejs,python,java,html,css,git,github,vscode,figma" />
 </p>
+
+---
+
+### 🚀 What I Work With
+
+* ⚛️ Frontend: **React, Next.js, Vue, Vanilla JS**
+* 🔧 Backend: **Node.js, APIs**
+* 🤖 ML/AI: **Python, Machine Learning Basics**
+* 🎨 UI/UX: **Figma, Responsive Design**
+* 🛠️ Tools: **Git, GitHub, VS Code**
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=tokyonight" alt="Aanchal's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchal911&layout=compact&theme=tokyonight" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchal911&layout=compact&theme=tokyonight&border_radius=12"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 Motivation Corner
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <b>“Start where you are. Use what you have. Build what you can.”</b> 💡
 </p>
 
 ---
 
 ### 🧩 Fun Corner
-💬 “Keep learning, keep growing — one line of code at a time.”  
-☕ When not coding, I’m probably designing, singing, or dreaming about my next solo trip 🌍  
+
+☕ Coding + Music + Designing = My vibe
+🌍 Dreaming of building globally impactful products
+🎤 Sometimes singing, sometimes debugging 😄
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/"_blank">
+  <a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aanchal-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/aanchal911" target="_blank">
