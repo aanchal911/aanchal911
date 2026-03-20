@@ -3,6 +3,29 @@
 
 ---
 
+<p align="center">
+  <b>🚀 Open Source Developer • Builder in Public • Tutorial Creator</b>
+</p>
+
+<p align="center">
+  Turning ideas into open-source projects and helping others learn by building.
+</p>
+
+---
+
+<!-- TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast;Building+Projects+in+Public;Creating+Developer+Tutorials;Learning+Everyday+🚀" />
+</p>
+
+---
+<p align="center">
+  <img src="Screenshot 2026-03-20 132411.png"Aanchal Bhatt"/>
+</p>
+
+---
+
 ### 🧠 About Me
 - 👀 I’m passionate about **developing new skills** and exploring the tech world.  
 - 🌱 Currently learning **new programming languages** & improving my problem-solving game.  
