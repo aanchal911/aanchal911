@@ -4,7 +4,7 @@
 
 <!-- ================================================= -->
 
-<!-- 🔥 TOP WAVE (FIXED) -->
+<!-- 🔥 TOP WAVE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:000000&height=200&section=header&text=cool%20dev%20page%20:)&fontSize=36&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38"/>
@@ -36,7 +36,7 @@
 
 ---
 
-<!-- ✨ MOTIVATION ZONE -->
+<!-- ✨ MOTIVATION -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
@@ -56,14 +56,6 @@
 * 👯 Looking to collaborate on **open-source tools**
 * 💬 Ask me about **GitHub, open source & development**
 * 🎯 Goal: *Make coding simple and accessible for everyone*
-
----
-
-<!-- SUBTLE SECTION ANIMATION -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-</p>
 
 ---
 
@@ -94,31 +86,27 @@
 </p>
 
 ---
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abgit-ui&theme=github&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abgit-ui&theme=github-dark&area=true&hide_border=true"/>
 </p>
 
 ---
 
-
-## 🎨 Dev Activity Vibes
+## ⚡ Dev Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abgit-ui&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abgit-ui&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abgit-ui&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <b>⚡ Turning coffee ☕ into commits & ideas into reality 🚀</b>
+  <b>⚡ Where I spend most of my coding time</b>
 </p>
 
 ---
-
 
 ## 📚 What You'll Find Here
 
@@ -146,10 +134,7 @@
   <img src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&hide_border=true" />
 </p>
 
----<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/demo.svg"/>
-</p>
-
+---
 
 ### 🧩 Fun Corner
 
@@ -176,7 +161,7 @@
   ⭐ If my projects help you, consider starring them!
 </p>
 
-<!-- 🔻 FOOTER WAVE -->
+<!-- 🔻 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
