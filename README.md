@@ -7,7 +7,7 @@
 <!-- 🔥 TOP WAVE (FIXED) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aanchal%20Bhatt&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:000000&height=200&section=header&text=cool%20dev%20page%20:)&fontSize=36&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- 🔥 BANNER -->
@@ -103,13 +103,22 @@
 
 ---
 
-## 🏆 Achievements
+## 🎨 Dev Activity Vibes
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abgit-ui&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abgit-ui&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <b>⚡ Turning coffee ☕ into commits & ideas into reality 🚀</b>
 </p>
 
 ---
+
 
 ## 📚 What You'll Find Here
 
@@ -137,7 +146,10 @@
   <img src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&hide_border=true" />
 </p>
 
----
+---<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/demo.svg"/>
+</p>
+
 
 ### 🧩 Fun Corner
 
