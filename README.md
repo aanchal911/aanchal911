@@ -9,6 +9,10 @@
 <p align="center">
   <img src="Screenshot 2026-03-20 132411.png" width="85%" alt="Aanchal Bhatt Banner"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Aanchal%20Bhatt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Aanchal Bhatt</h1>
 
@@ -148,7 +152,10 @@
 
 <p align="center">
   ⭐ If my projects help you, consider starring them!
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
+
 
 <!-- ================================================= -->
 
