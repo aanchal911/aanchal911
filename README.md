@@ -4,15 +4,17 @@
 
 <!-- ================================================= -->
 
+<!-- 🔥 TOP WAVE (FIXED) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aanchal%20Bhatt&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+
 <!-- 🔥 BANNER -->
 
 <p align="center">
   <img src="Screenshot 2026-03-20 132411.png" width="85%" alt="Aanchal Bhatt Banner"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Aanchal%20Bhatt&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Aanchal Bhatt</h1>
 
@@ -57,6 +59,14 @@
 
 ---
 
+<!-- SUBTLE SECTION ANIMATION -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+---
+
 ## 🔥 GitHub Dashboard
 
 <table align="center">
@@ -93,10 +103,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abgit-ui/abgit-ui/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abgit-ui&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -110,12 +120,12 @@
 
 ---
 
-<!-- ================= YOUR SECTION (UNCHANGED, FIXED) ================= -->
+<!-- ================= YOUR SECTION ================= -->
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=tokyonight" alt="Aanchal's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchal911&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
@@ -124,7 +134,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -152,10 +162,13 @@
 
 <p align="center">
   ⭐ If my projects help you, consider starring them!
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
 
+<!-- 🔻 FOOTER WAVE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
 
 <!-- ================================================= -->
 
