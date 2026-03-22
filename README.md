@@ -59,25 +59,7 @@
 
 ---
 
-## 🔥 GitHub Dashboard
 
-<table align="center">
-<tr>
-<td>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abgit-ui&show_icons=true&theme=tokyonight&border_radius=12"/>
-</td>
-<td>
-  <img height="165" src="https://streak-stats.demolab.com?user=abgit-ui&theme=tokyonight&border_radius=12"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abgit-ui&layout=compact&theme=tokyonight&border_radius=12"/>
-</td>
-</tr>
-</table>
-
----
 
 ## 🧠 Tech Stack
 
