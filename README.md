@@ -1,29 +1,40 @@
-# 🌸✨ AANCHAL BHATT • BUILDING THE FUTURE IN PUBLIC
+# 🌸✨ AANCHAL BHATT • DIGITAL CREATOR • BUILDER IN PUBLIC
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Aanchal%20Bhatt&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:ff4ecd,50:8b5cf6,100:3b82f6"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aanchal%20Bhatt&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0:ff4ecd,20:ff66ff,50:8b5cf6,75:6366f1,100:3b82f6"/>
+</p>
+
+<!-- YOUR CUSTOM BANNER -->
+
+<p align="center">
+  <img src="./Screenshot%202026-03-20%20132411.png" width="100%" alt="Aanchal Bhatt Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=FF4ECD&lines=🌐+Google+Student+Ambassador;🚀+Open+Source+Developer;💡+Community+Builder;🎓+Tech+Educator;✨+Builder+in+Public;🏆+India+Innovates+2026+Finalist"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2800&pause=1000&color=FF4ECD&center=true&vCenter=true&width=1000&lines=🌐+Google+Student+Ambassador;🏆+India+Innovates+2026+Finalist;🚀+Open+Source+Developer;💡+Community+Builder;🎓+Tech+Educator;✨+Builder+in+Public;💜+Building+Technology+That+Empowers"/>
 </p>
+
+<h1 align="center">
+Hi 👋 I'm Aanchal Bhatt
+</h1>
 
 <h3 align="center">
-Turning ideas into products, communities into movements, and learning into impact.
+💜 Building Products • Growing Communities • Sharing Knowledge
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanchal911&label=Profile+Views&color=ff4ecd&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/aanchal911?style=for-the-badge&color=8b5cf6&labelColor=ff4ecd" />
-  <img src="https://img.shields.io/github/stars/aanchal911?style=for-the-badge&color=3b82f6&labelColor=8b5cf6" />
+  <img src="https://komarev.com/ghpvc/?username=aanchal911&label=PROFILE+VIEWS&color=ff4ecd&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/aanchal911?style=for-the-badge&color=8b5cf6"/>
+  <img src="https://img.shields.io/github/stars/aanchal911?style=for-the-badge&color=3b82f6"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/aanchal911">
-    <img src="https://img.shields.io/badge/GitHub-Follow-ff4ecd?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-@aanchal911-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aanchal_Bhatt-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -31,121 +42,88 @@ Turning ideas into products, communities into movements, and learning into impac
 
 # 🌟 Featured Achievement
 
+<div align="center">
+
+## 🌐 GOOGLE STUDENT AMBASSADOR
+
+Empowering students through technology, community leadership, innovation, and learning.
+
+### One of the achievements I am most proud of.
+
+</div>
+
 <p align="center">
-
-### 🌐 GOOGLE STUDENT AMBASSADOR
-
-Empowering students through technology, fostering innovation, organizing learning experiences, and helping build stronger developer communities.
-
-### 🏆 INDIA INNOVATES 2026 FINALIST
-
-Recognized for innovation, creativity, and impactful problem-solving through technology.
-
+  <img src="https://img.shields.io/badge/🌐%20Google%20Student%20Ambassador-FF4ECD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏆%20India%20Innovates%202026%20Finalist-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Open%20Source%20Developer-3B82F6?style=for-the-badge"/>
 </p>
 
 ---
 
-# ✨ About Me
+# ⚡ Developer In Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+</p>
+
+---
+
+# 💫 About Me
 
 ```yaml
 Name: Aanchal Bhatt
 
-Roles:
+Role:
   - Google Student Ambassador
   - Open Source Developer
   - Community Builder
   - Tech Educator
-  - Builder in Public
+
+Focus:
+  - Open Source
+  - Modern Web Development
+  - AI & Emerging Technologies
+  - Developer Communities
 
 Mission:
-  Build technology that educates,
-  empowers, and inspires people.
+  Build technology that inspires,
+  educates, and empowers people.
 
-Currently:
-  Exploring Web Development,
-  Open Source,
-  AI/ML,
-  Product Building,
-  Developer Experience
-
-Belief:
-  Great software is built by people
-  who never stop learning.
+Status:
+  Always Learning 🚀
 ```
 
----
+I love creating technology that makes learning easier, communities stronger, and innovation more accessible.
 
-# 🚀 My Story
+Whether I am contributing to open source, mentoring students, building projects in public, or experimenting with new technologies, my goal remains the same:
 
-I am a passionate developer who believes technology becomes truly powerful when it helps people learn, create, and grow.
-
-My journey started with curiosity and evolved into building projects, contributing to open source, mentoring peers, and sharing knowledge publicly.
-
-Today, I focus on:
-
-✨ Creating meaningful developer tools
-
-🌐 Growing technology communities
-
-📚 Making complex concepts easier to learn
-
-🚀 Building projects in public
-
-💜 Helping others start their own journey in tech
-
-Every project I build is driven by one goal:
-
-> Make technology more accessible, empowering, and impactful.
+> 💜 Use technology to create meaningful impact.
 
 ---
 
-# 🏅 Achievements
+# 🧠 Tech Universe
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🌐%20Google%20Student%20Ambassador-ff4ecd?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏆%20India%20Innovates%202026%20Finalist-8b5cf6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🚀%20Open%20Source%20Developer-3b82f6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💡%20Community%20Builder-ff4ecd?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎓%20Tech%20Educator-8b5cf6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/✨%20Builder%20in%20Public-3b82f6?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,nodejs,express,python,java,c,cpp,mysql,mongodb,firebase,html,css,tailwind,git,github,vscode,figma&perline=10"/>
 </p>
 
 ---
 
-# 🧠 Tech Stack
+# 🚀 What I Love Building
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,nodejs,express,python,java,c,cpp,mysql,mongodb,html,css,tailwind,git,github,vscode,figma&perline=10" />
-</p>
-
----
-
-# 🎯 Featured Skills
-
-<table align="center">
+<table>
 <tr>
-<td align="center">🌐 Frontend Development</td>
-<td align="center">⚙️ Backend Systems</td>
-<td align="center">🧠 Problem Solving</td>
+<td align="center">🌐 Web Applications</td>
+<td align="center">🤖 AI Projects</td>
+<td align="center">📱 Modern Interfaces</td>
 </tr>
 
 <tr>
-<td align="center">🎨 UI/UX Design</td>
-<td align="center">☁️ Open Source</td>
-<td align="center">🤝 Community Leadership</td>
-</tr>
-
-<tr>
-<td align="center">📱 Responsive Apps</td>
-<td align="center">🚀 Developer Experience</td>
-<td align="center">🎓 Technical Education</td>
+<td align="center">🎓 Learning Platforms</td>
+<td align="center">💡 Developer Tools</td>
+<td align="center">🛠 Open Source Projects</td>
 </tr>
 </table>
 
@@ -154,9 +132,9 @@ Every project I build is driven by one goal:
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchal911&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchal911&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -164,7 +142,7 @@ Every project I build is driven by one goal:
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aanchal911&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aanchal911&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -180,47 +158,52 @@ Every project I build is driven by one goal:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aanchal911&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aanchal911&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-# 🌍 Open Source Impact
+# 🐍 Contribution Snake
 
-### What You'll Find Here
-
-🚀 Open Source Projects
-
-📚 Educational Resources
-
-🎥 Learn-by-Building Content
-
-🛠 Developer Tools
-
-💡 Innovative Experiments
-
-🎯 Real-World Solutions
-
-✨ Community-Focused Initiatives
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-# 🤝 Community Impact
+# 🌍 Community Impact
 
-As a Google Student Ambassador and community builder, I enjoy:
+### Things I Love Doing
 
-* Organizing developer-focused learning experiences
-* Helping students enter technology confidently
-* Contributing to open-source communities
-* Creating beginner-friendly resources
-* Sharing lessons learned from real projects
-* Encouraging people to build publicly
+💡 Helping students enter tech
+
+🎓 Teaching and mentoring
+
+🌐 Building communities
+
+🚀 Sharing projects publicly
+
+🛠 Contributing to open source
+
+📚 Creating beginner-friendly resources
+
+✨ Encouraging others to build
 
 ---
 
 # 🌸 Beyond Code
 
-<table>
+<p align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
+
+</p>
+
+<table align="center">
 <tr>
 <td>🎤 Singer</td>
 <td>🎨 Designer</td>
@@ -229,47 +212,57 @@ As a Google Student Ambassador and community builder, I enjoy:
 
 <tr>
 <td>☕ Coffee-Powered Creator</td>
-<td>📷 Story Collector</td>
-<td>💜 Community Enthusiast</td>
+<td>📸 Story Collector</td>
+<td>💜 Dream Builder</td>
 </tr>
 </table>
 
 ---
 
-## Life Philosophy
+# 💻 Terminal
 
-> Learn relentlessly.
->
-> Build fearlessly.
->
-> Share generously.
->
-> Grow together.
+```bash
+> whoami
 
----
+Aanchal Bhatt
 
-# 💜 Currently Building
+> title
 
-```text
-🚀 Open Source Projects
-🌐 Community Initiatives
-🎓 Learning Resources
-💡 Developer Tools
-✨ Creative Experiments
+Google Student Ambassador
+
+> mission
+
+Build. Learn. Share. Inspire.
+
+> status
+
+Creating cool things 🚀
+
+> current_mood
+
+Coffee + Code + Creativity ☕
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 💜 Favorite Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/aanchal911">
+<img src="https://img.shields.io/badge/GitHub-@aanchal911-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aanchal911">
-<img src="https://img.shields.io/badge/GitHub-@aanchal911-ff4ecd?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aanchal-bhatt-4a674b34a/">
+<img src="https://img.shields.io/badge/LinkedIn-Aanchal_Bhatt-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -278,14 +271,14 @@ As a Google Student Ambassador and community builder, I enjoy:
 
 <p align="center">
 
-### 💜 Thanks for visiting my profile
+### 💜 Thanks for visiting
 
-Building technology, empowering communities, and sharing the journey one commit at a time.
+Building technology, empowering people, and sharing the journey one commit at a time.
 
-⭐ If you enjoy my work, consider starring a project and joining the journey.
+⭐ If you like my work, consider following or starring a project.
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff4ecd,50:8b5cf6,100:3b82f6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&animation=twinkling&color=0:ff4ecd,25:ff66ff,50:8b5cf6,75:6366f1,100:3b82f6"/>
 </p>
